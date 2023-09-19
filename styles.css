@@ -194,7 +194,8 @@ footer p {
     color: #fff;
     text-transform: uppercase;
     animation: flip 2s infinite;
-    animation-delay: calc(.2s * var(--i))
+    animation-delay: calc(.2s * var(--i));
+    z-index: 3;
   }
   @keyframes flip {
     0%,80% {
