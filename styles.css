@@ -238,4 +238,7 @@ footer p {
     .waviy span {
         font-size: 3.5rem;
     }
+    .project-tile {
+    padding: 0px;
+}
 }
