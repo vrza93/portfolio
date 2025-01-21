@@ -262,4 +262,11 @@ footer p {
   .project-tile {
     padding: 0px;
   }
+  .welcome-section p {
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 0.4rem 0.6rem;
+  }
 }
